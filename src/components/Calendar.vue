@@ -511,7 +511,7 @@ export default {
 }
 </script>
 
-<style lang="scss">
+<style lang="sass">
 @mixin clearfix() {
   &:before,
   &:after {
